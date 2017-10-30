@@ -1,0 +1,17 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Yeyi Zhang"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:yz3300@cumc.columbia.edu
+    - icon: fa-github fa-lg
+      href: http://github.com/zyy7348/
+ 
+output:
+  html_document:
+   theme: readable
+   css: style.css
+   
